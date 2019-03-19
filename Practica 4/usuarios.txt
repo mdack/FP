@@ -1,0 +1,30 @@
+4
+A
+a
+2 2 0
+5 0 0
+1462661637
+
+_X_X_X_
+B
+b
+2 0 1
+9 0 0
+1458124591
+
+_X_X_X_
+C
+c
+0 -2 1
+1 2 0
+1462659312
+
+_X_X_X_
+G
+g
+0 2 0
+2 0 0
+1459098944
+Ha ganado por abandono una partida contra C el 2016/03/16.
+Ha ganado por abandono una partida contra C el 2016/03/16.
+_X_X_X_

@@ -1,0 +1,4 @@
+Practica 3 - FP
+
+1.- Pueden estar las coordenadas de la meta fuera de rango?
+2.- No hace falta comprobación de las bolas iniciales y el tamaño del tablero?
